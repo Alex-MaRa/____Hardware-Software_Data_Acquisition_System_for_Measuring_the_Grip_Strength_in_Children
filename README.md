@@ -1,0 +1,2 @@
+# ____Hardware-Software_Data_Acquisition_System_for_Measuring_the_Grip_Strength_in_Children
+This project is a data acquisition system for measuring grip strength in children. It consists of two data acquisition boards, one based on the PIC18F2550 microcontroller and the other on the NODE MCUESP32S development board. It features two types of graphical interfaces, one implemented with LabVIEW and the other designed with App Inventor.
